@@ -9,7 +9,7 @@ import {  AnswerExperienceConfig  } from "../config/globalConfig";
 import PageLayout from "../components/page-layout";
 
 export const getPath: GetPath<TemplateProps> = () => {
-  return `/locatorSearch`;
+  return `index.html`;
 };
 
 /*
